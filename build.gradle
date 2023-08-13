@@ -47,7 +47,7 @@ allprojects {
         implementation libs.openApi
         implementation libs.javaJwt
         implementation libs.springCloudOpenFeign
-        implementation libs.springBootRabbitMq
+        //implementation libs.springBootRabbitMq
         implementation libs.springBootJpa
         implementation libs.postgresql
         implementation libs.springBootSecurity
