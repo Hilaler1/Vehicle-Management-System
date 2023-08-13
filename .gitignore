@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/build/
+/user-service/build/
+/user-service/out/
+/user-service/out/production/classes/
+/vehicle-service/build/
+/vehicle-service/out/
+/vehicle-service/out/production/classes/

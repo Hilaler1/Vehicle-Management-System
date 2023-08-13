@@ -17,7 +17,7 @@ public class DataImpl {
     private final UserRepository userRepository;
     private final CompanyRepository companyRepository;
 
-    //@PostConstruct
+    @PostConstruct
     public void initData(){
         createCompany();
         createUser();
