@@ -1,0 +1,4 @@
+rootProject.name = 'VehicleManagementSystem'
+include 'vehicle-service'
+include 'user-service'
+
